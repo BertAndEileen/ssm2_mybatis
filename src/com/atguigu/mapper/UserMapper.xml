@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--
+    mapper表示一个映射器
+    namespace="com.atguigu.mapper.UserMapper"
+    说明本mapper.xml文件是用来映射管理UserMapper接口的，
+    主要是去实现UserMapper接口声明的方法
+    要修改mapper的nameSpace名称空间属性值
+    它的属性值必须是Mapper接口的的全类名-->
+<mapper namespace="com.atguigu.mapper.UserMapper">
+
+</mapper>
